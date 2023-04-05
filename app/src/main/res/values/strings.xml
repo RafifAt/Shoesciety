@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Society</string>
+    <string name="shoes_merk">Nama Sepatu</string>
+    <string name="shoes_type">Type Sepatu</string>
+    <string name="shoes_price">Harga</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Sign Up</string>
+    <string name="tab_text_2">Profile</string>
+</resources>
